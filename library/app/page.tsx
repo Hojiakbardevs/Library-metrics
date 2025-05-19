@@ -30,7 +30,7 @@ export default function Home() {
       <header className="sticky top-0 z-10 flex h-16 items-center justify-center gap-4 border-b bg-white px-16">
         <div className="flex items-center gap-2 font-semibold">
           <img src="/logo1.png" alt="Logo" className="h-8 w-8" />
-          <span className="text-xl">TATU Bibliometrik Tahlil</span>
+          <span className="text-xl">TATU Ilmmetrik Tahlil</span>
         </div>
       </header>
       <main className="flex-1 p-6">
@@ -42,7 +42,7 @@ export default function Home() {
               className="mb-4 h-20 w-20"
             />
             <h1 className="mb-6 text-3xl font-bold">
-              Web of Science Bibliometrik Tahlili
+              Web of Science Ilmmetrik Tahlili
             </h1>
             <p className="mb-8 text-muted-foreground text-center">
               Web of Science dan yuklab olingan faylni yuklang va nashrlar
@@ -58,7 +58,7 @@ export default function Home() {
               <div>
                 <div className="flex items-center gap-2 mb-4">
                   <img src="/logo1.png" alt="Logo" className="h-8 w-8" />
-                  <h1 className="text-3xl font-bold">Bibliometrik Tahlil</h1>
+                  <h1 className="text-3xl font-bold">Ilmmetrik Tahlil</h1>
                 </div>
                 <p className="text-muted-foreground">
                   Web of Science ma’lumotlar bazasidan olingan{" "}
